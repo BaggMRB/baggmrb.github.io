@@ -1,0 +1,75 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add! */
+
+h1 {
+  font-size:30px;
+  font-family:Helvetica;
+  background-color:purple;
+  color: white
+}
+h2 {
+  font-size: 20px;
+  font-family:Helvetica;
+  background-color:purple;
+  color: white
+}
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+header {
+  padding: 5px;
+  display: block;
+  width: 790px;
+}
+
+nav {
+  line-height:;
+  background-color:blue;
+  width:125px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+a {
+    color:white ;
+}
+
+section {
+  width: 516px;
+  display: inline-block;
+}
+
+aside {
+  width: 200px;
+  display: inline-block;
+  vertical-align: top;
+  background-color:purple;
+  font-size: ;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+footer {
+  width: 790px;
+  background-color:;
+  text-align:;
+  padding:5px;
+  display: block;
+}
+
+img {
+  border: 4px solid purple;
+
+}
